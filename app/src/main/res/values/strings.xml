@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">"English_Tran "</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="cannot_query_ass">"您好，暂时查询不到您的评价!"</string>
+    <string name="cannot_query_order">"您好，暂时查询不到您的订单!"</string>
+    <string name="cannot_query_teacher">"很抱歉，该等级教师无人在线！"</string>
+    <string name="please_select">"请选择您要练习的等级:"</string>
+    <string name="four">"口语四级"</string>
+    <string name="six">"口语六级"</string>
+    <string name="teacher">"教师水平"</string>
+    <string name="professor">"教授水平"</string>
+    <string name="sex">"性别:"</string>
+    <string name="man">"男"</string>
+    <string name="woman">"女"</string>
+    <string name="register">"注册"</string>
+    <string name="phone">"手机号:"</string>
+    <string name="username">"用户名:"</string>
+    <string name="pwd">"密码:"</string>
+    <string name="remember">"记住密码"</string>
+    <string name="login">"登录"</string>
+    <string name="date">"订单时间"</string>
+    <string name="duration">"时长"</string>
+    <string name="cost">"金额"</string>
+    <string name="welcome">"欢迎注册"</string>
+    <string name="who">"您是:"</string>
+    <string name="qiuxue">"求学者"</string>
+    <string name="chuanshou">"传授者"</string>
+    <string name="next">"下一步"</string>
+    <string name="hou_much">"您期望的时薪是:"</string>
+    <string name="what_your_grade">"您的英语口语技能等级:"</string>
+    <string name="cannot_get_ass">"很抱歉，暂时没有该老师的评价!"</string>
+    <string name="connect">"点击连线"</string>
+    <string name="ass_grade">"评价等级: "</string>
+    <string name="good">"好评"</string>
+    <string name="medium">"中评"</string>
+    <string name="bad">"差评"</string>
+    <string name="commit">"提交"</string>
+    <string name="cancel">"取消"</string>
+    <string name="start">"开启服务"</string>
+    <string name="stop">"停止服务"</string>
+    <string name="accept">"接受"</string>
+    <string name="reject">"拒绝"</string>
+
+</resources>
